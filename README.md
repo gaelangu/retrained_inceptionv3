@@ -1,6 +1,5 @@
 # Facial Recognition using Pre-trained Inception v3
 
-------------------------------------------------------
 
 This is based on the Tensorflow for Poets codelab, which can be found [here](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets). The model was originally used to classify types of flowers.
 
